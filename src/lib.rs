@@ -11,6 +11,7 @@ pub mod functions_nullable;
 mod geojson;
 mod geometrycollection;
 mod geometrycontainer;
+mod georust;
 mod linestring;
 mod multiline;
 mod multipoint;
